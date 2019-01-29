@@ -1,1 +1,4 @@
 # diceGame
+---
+permalink: /dice.html
+---
